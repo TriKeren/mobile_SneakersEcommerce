@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0",
+    "name": "Nike Invincible 3 Electric",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/12b4c855-4419-4764-9178-bbbe5a64e6a1/NIKE+ZOOMX+INVINCIBLE+RN+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/859fa30e-c31d-48ab-bf59-f762734cdd39/NIKE+ZOOMX+INVINCIBLE+RN+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/be19fa44-ca05-4e5b-8e91-c10c73c0fea5/NIKE+ZOOMX+INVINCIBLE+RN+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88127f88-4f81-4f39-a106-862f414d882f/NIKE+ZOOMX+INVINCIBLE+RN+3+OLY.png"
+    ],
+    "oldPrice": "1899.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": " 2.999.000",
+    "description": "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond. Designed to help keep you on the run, it's super supportive and bouncy, so that you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.",
+    "title": "Men's Road Running Shoes"
+  },
+  {
+    "id": "1",
+    "name": "Nike InfinityRN 4 Electric",
+    "category": "Men's Running",
+    "oldPrice": "99.00",
+    "imageUrl": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9316648-fbd5-4087-b3e4-d6da064c27d6/NIKE+REACTX+INFINITY+RUN+4+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4fbb6b7a-08c1-4251-8b74-69bd798268f0/NIKE+REACTX+INFINITY+RUN+4+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ec92f9df-8d2d-44ae-ae71-e5e5cb69fc28/NIKE+REACTX+INFINITY+RUN+4+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99e4c93a-69ff-4ee7-a4a2-326234a6119e/NIKE+REACTX+INFINITY+RUN+4+OLY.png"
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "2.649.000",
+    "description": "Maximum cushioning provides elevated comfort for everyday runs. Experience a soft, rocker-shaped platform made with new ReactX foam underfoot, and an ultra-comfortable collar and tongue for a snug feel.",
+    "title": "Men's Road Running Shoes"
+  },
+  {
+    "id": "2",
+    "name": "Nike Vaporfly 3 Electric",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/114cda05-4ca8-4d26-ab8a-0d171ec9b691/ZOOMX+VAPORFLY+NEXT%25+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df4f3eb8-559c-4f8a-8f81-d36a8af73cbd/ZOOMX+VAPORFLY+NEXT%25+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5957d6d3-c529-4b3d-bdc3-59904c64f294/ZOOMX+VAPORFLY+NEXT%25+3+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4957c67e-0544-442c-b13b-9c4b11c910e6/ZOOMX+VAPORFLY+NEXT%25+3+OLY.png"
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "oldPrice": "1349.00",
+    "price": "3.559.000",
+    "description": "Catch 'em if you can. Giving you race-day speed to conquer any distance, the Nike Vaporfly 3 is made for the chasers, the racers and the elevated pacers who can't turn down the thrill of the pursuit. We reworked the leader of the super shoe pack and tuned the engine underneath to help you chase personal bests from a 10K to marathon. From elite runners to those new to racing, this versatile road-racing workhorse is for those who see speed as a gateway to more miles and more seemingly uncatchable highs.",
+    "title": "Road Racing Shoes"
+  },
+  {
+    "id": "3",
+    "name": "Nike Pegasus EasyOn Electric",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0d3c55b6-5fec-4d33-838e-0bcad7896c87/PEGASUS+EASYON+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ae457fd-4c83-47be-8a99-0eb13287a493/PEGASUS+EASYON+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5303342-7040-4d9b-b6d3-e382c65b4490/PEGASUS+EASYON+OLY.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c143f794-23b8-46bb-a248-4141ffc3afa4/PEGASUS+EASYON+OLY.png"
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "oldPrice": "1349.00",
+    "price": "2.249.000",
+    "description": "Responsive cushioning in the Pegasus provides an energised ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.",
+    "title": "Road Racing Shoes"
+  }
+]
